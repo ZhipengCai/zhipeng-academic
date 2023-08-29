@@ -5,6 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
+<!--
  - block: hero
     content:
       title: Hugo Academic Theme
@@ -34,8 +35,7 @@ sections:
       background:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
-        text_color_light: true
-
+        text_color_light: true -->
 
   - block: about.biography
     id: about
