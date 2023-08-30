@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist at Intel Labs
+role: Research Scientist at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html)
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Intel Labs
-    url: https://www.intel.com/content/www/us/en/research/overview.html
+# organizations:
+#  - name: Intel Labs
+#    url: https://www.intel.com/content/www/us/en/research/overview.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -52,7 +52,7 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=AZNUIDAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
@@ -72,4 +72,6 @@ highlight_name: true
 ---
 
 I am interested in general machine learning and computer vision problems. During PhD, I was interested in robust geometric perception, which estimates computer vision models (correspondences between images, poses, 3D reconstructions) given outlier contaminated data. I was specifically interested in designing efficient algorithms that have optimality guarantees, i.e., guarantee to return the best solution. After joining Intel, my interests shift towards a mixture of learning and vision, where I study various problems such as 1. learning-based perception (feature matching, finding correspondences, pose estimation, depth estimation etc) 2. Continual Learning 3. Generative models (e.g., novel view synthesis, image/3D scene generation). My work has been selected as one of the 12 best papers at ECCV'18.
+
+I have (co-)supervised Ph.D students/interns from various countries (send me an email if you are interested in internships/collaborations, different base locations are possible, e.g., US, Germany, China).
 {style="text-align: justify;"}
