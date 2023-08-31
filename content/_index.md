@@ -55,7 +55,16 @@ sections:
           location: California
           date_start: '2020-06-01'
           date_end: '2022-05-31'
-          description: Doing research on general computer vision and machine learning problems.
+          description: Doing research on general computer vision and machine learning problems. Working with [Vladlen koltun](http://vladlen.info/).
+
+        - title: Research Interns
+          company: Intel Intelligent Systems Lab
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2019-01-26'
+          date_end: '2019-07-31'
+          description: Doing research on general computer vision and machine learning problems. Working with [Vladlen koltun](http://vladlen.info/)
 
         - title: PhD in computer science
           company: Intel Intelligent Systems Lab
@@ -64,7 +73,7 @@ sections:
           location: California
           date_start: '2016-11-16'
           date_end: '2020-05-31'
-          description: Doing research about robust geometric perception.
+          description: Doing research about robust geometric perception. Supervisors: Prof. [Tat-Jun Chin](https://cs.adelaide.edu.au/~ssl/) and Prof. [David Suter](https://ai-ecu.github.io/ECU-AI-Lab/dsuter/index.html)
     design:
       columns: '2'
   - block: accomplishments
