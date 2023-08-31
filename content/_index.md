@@ -11,22 +11,22 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+  #- block: features
+  #  content:
+  #    title: Skills
+  #    items:
+  #      - name: R
+  #        description: 90%
+  #        icon: r-project
+  #        icon_pack: fab
+  #      - name: Statistics
+  #        description: 100%
+  #        icon: chart-line
+  #        icon_pack: fas
+  #      - name: Photography
+  #        description: 10%
+  #        icon: camera-retro
+  #        icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -75,7 +75,7 @@ sections:
           company_logo: org-x
           location: California
           date_start: '2016-11-16'
-          date_end: '2020-05-31'
+          date_end: '2019-01-31'
           description: Doing research about robust geometric perception. Supervisors: Prof. Tat-Jun Chin and Prof. David Suter.
       #    description: Doing research about robust geometric perception. Supervisors: Prof. [Tat-Jun Chin](https://cs.adelaide.edu.au/~ssl/) and Prof. [David Suter](https://ai-ecu.github.io/ECU-AI-Lab/dsuter/index.html)
     design:
