@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: PhD in Computer Science (Supervisors: Prof. [Tat-Jun Chin](https://cs.adelaide.edu.au/~ssl/) & Prof. [David Suter](https://ai-ecu.github.io/ECU-AI-Lab/dsuter/index.html))
       institution: The University of Adelaide
       year: 2020
     - course: MEng in Computer Science
