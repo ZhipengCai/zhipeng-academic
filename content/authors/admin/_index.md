@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science (Supervisors: Prof. [Tat-Jun Chin](https://cs.adelaide.edu.au/~ssl/) & Prof. [David Suter](https://ai-ecu.github.io/ECU-AI-Lab/dsuter/index.html))
+    - course: PhD in Computer Science
       institution: The University of Adelaide
       year: 2020
     - course: MEng in Computer Science
@@ -71,7 +71,7 @@ email: 'czptc2h@gmail.com'
 highlight_name: true
 ---
 
-I am interested in machine learning and computer vision problems. During PhD, I was interested in robust geometric perception, which estimates computer vision models (correspondences between images, poses, 3D reconstructions) given outlier contaminated data. I was specifically interested in designing efficient algorithms that have optimality guarantees, i.e., guarantee to return the best solution. After joining Intel, my interests shift towards a mixture of learning and vision, where I study various problems such as 1. learning-based perception (feature matching, finding correspondences, pose estimation, depth estimation etc), 2. Continual Learning, 3. Generative models (e.g., novel view synthesis, image/3D scene generation). Our work has been selected as one of the 12 best papers at ECCV'18.
+I am interested in machine learning and computer vision problems. I obtained my PhD at the [University of Adelaide](https://www.adelaide.edu.au/), supervised by Prof. [Tat-Jun Chin](https://cs.adelaide.edu.au/~ssl/) & Prof. [David Suter](https://ai-ecu.github.io/ECU-AI-Lab/dsuter/index.html). During PhD, I was interested in robust geometric perception, which estimates computer vision models (correspondences between images, poses, 3D reconstructions) given outlier contaminated data. I was specifically interested in designing efficient algorithms that have optimality guarantees, i.e., guarantee to return the best solution. After joining Intel, my interests shift towards a mixture of learning and vision, where I study various problems such as 1. learning-based perception (feature matching, finding correspondences, pose estimation, depth estimation etc), 2. Continual Learning, 3. Generative models (e.g., novel view synthesis, image/3D scene generation). Our work has been selected as one of the 12 best papers at ECCV'18.
 
 I have (co-)supervised Ph.D students/interns from various countries (send me an email if you are interested in internships/collaborations, different base locations are possible, e.g., US, Germany, China).
 {style="text-align: justify;"}
