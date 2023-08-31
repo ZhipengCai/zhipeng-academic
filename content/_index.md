@@ -63,7 +63,7 @@ sections:
           company_logo: org-x
           location: California
           date_start: '2016-11-16'
-          date_end: '2020-5-31'
+          date_end: '2020-05-31'
           description: Doing research about robust geometric perception.
     design:
       columns: '2'
