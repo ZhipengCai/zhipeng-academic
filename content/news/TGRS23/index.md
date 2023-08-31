@@ -1,5 +1,7 @@
 ---
-title: Paper accepted to [IEEE Transactions on Geoscience and Remote Sensing (TGRS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
+<h1>Paper accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36">IEEE Transactions on Geoscience and Remote Sensing (TGRS)</a></h1>
+
+# title: Paper accepted to [IEEE Transactions on Geoscience and Remote Sensing (TGRS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
 subtitle: 
 
 # Summary for listings and search engines
