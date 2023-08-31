@@ -42,7 +42,7 @@ sections:
         - title: Research Scientist
           company: Intel Embodied AI Lab
           company_url: ''
-          company_logo: org-it
+          company_logo: org-it.png
           location: Santa Clara, California
           date_start: '2022-06-01'
           date_end: ''
@@ -51,7 +51,7 @@ sections:
         - title: Postdoc
           company: Intel Intelligent Systems Lab
           company_url: ''
-          company_logo: org-it
+          company_logo: org-it.png
           location: California
           date_start: '2020-06-01'
           date_end: '2022-5-31'
@@ -60,7 +60,7 @@ sections:
         - title: PhD in computer science
           company: Intel Intelligent Systems Lab
           company_url: ''
-          company_logo: org-UoA
+          company_logo: org-UoA.jpeg
           location: California
           date_start: '2016-11-16'
           date_end: '2020-5-31'
