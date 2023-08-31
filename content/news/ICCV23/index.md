@@ -1,6 +1,6 @@
 ---
 
-title: Paper accepted to IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+title: Two papers accepted to ICCV 2023
 subtitle: 
 
 # Summary for listings and search engines
@@ -38,6 +38,8 @@ tags:
 categories:
 
 ---
+
+[Metric3D](https://arxiv.org/pdf/2307.10984v1.pdf) and [CLNeRF](https://arxiv.org/abs/2308.14816)
 
 <!-- ```python
 import libr
