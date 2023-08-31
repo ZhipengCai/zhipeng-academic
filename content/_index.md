@@ -39,27 +39,32 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Scientist
+          company: Intel Embodied AI Lab
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: org-It
+          location: Santa Clara, California
+          date_start: '2022-06-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          description: Doing research on general computer vision and machine learning problems.
+    
+        - title: Postdoc
+          company: Intel Intelligent Systems Lab
           company_url: ''
-          company_logo: org-x
+          company_logo: org-It
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2020-06-01'
+          date_end: '2022-5-31'
+          description: Doing research on general computer vision and machine learning problems.
+
+        - title: PhD in computer science
+          company: Intel Intelligent Systems Lab
+          company_url: ''
+          company_logo: org-UoA
+          location: California
+          date_start: '2016-11-16'
+          date_end: '2020-5-31'
+          description: Study the problem of robust geometric perception.
     design:
       columns: '2'
   - block: accomplishments
