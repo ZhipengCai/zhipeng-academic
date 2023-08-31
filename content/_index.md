@@ -54,7 +54,7 @@ sections:
           company_logo: org-x
           location: California
           date_start: '2020-06-01'
-          date_end: '2022-5-31'
+          date_end: '2022-05-31'
           description: Doing research on general computer vision and machine learning problems.
 
         - title: PhD in computer science
