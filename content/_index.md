@@ -69,15 +69,15 @@ sections:
           description: Doing research on general computer vision and machine learning problems. Working with Vladlen koltun
     # description: Doing research on general computer vision and machine learning problems. Working with [Vladlen koltun](http://vladlen.info/)
 
-        - title: PhD in computer science
-          company: The University of Adelaide
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-11-16'
-          date_end: '2020-05-31'
-          description: Doing research about robust geometric perception. Supervisors: Prof. Tat-Jun Chin and Prof. David Suter.
-      #    description: Doing research about robust geometric perception. Supervisors: Prof. [Tat-Jun Chin](https://cs.adelaide.edu.au/~ssl/) and Prof. [David Suter](https://ai-ecu.github.io/ECU-AI-Lab/dsuter/index.html)
+        # - title: PhD in computer science
+          # company: The University of Adelaide
+          # company_url: ''
+          # company_logo: org-x
+          # location: California
+          # date_start: '2016-11-16'
+          # date_end: '2020-05-31'
+          # description: Doing research about robust geometric perception. Supervisors: Prof. Tat-Jun Chin and Prof. David Suter.
+      # description: Doing research about robust geometric perception. Supervisors: Prof. [Tat-Jun Chin](https://cs.adelaide.edu.au/~ssl/) and Prof. [David Suter](https://ai-ecu.github.io/ECU-AI-Lab/dsuter/index.html)
     design:
       columns: '2'
   - block: accomplishments
