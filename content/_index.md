@@ -55,9 +55,8 @@ sections:
           location: California
           date_start: '2020-06-01'
           date_end: '2022-05-31'
-          description: Doing research on general computer vision and machine learning problems. Working with Vladlen koltun.
-
-    # description: Doing research on general computer vision and machine learning problems. Working with [Vladlen koltun](http://vladlen.info/).
+          #description: Doing research on general computer vision and machine learning problems. Working with Vladlen koltun.
+          description: Doing research on general computer vision and machine learning problems. Working with [Vladlen koltun](http://vladlen.info/).
 
         - title: Research Interns
           company: Intel Intelligent Systems Lab
@@ -66,8 +65,8 @@ sections:
           location: California
           date_start: '2019-01-26'
           date_end: '2019-07-31'
-          description: Doing research on general computer vision and machine learning problems. Working with Vladlen koltun
-    # description: Doing research on general computer vision and machine learning problems. Working with [Vladlen koltun](http://vladlen.info/)
+          # description: Doing research on general computer vision and machine learning problems. Working with Vladlen koltun
+          description: Doing research on general computer vision and machine learning problems. Working with [Vladlen koltun](http://vladlen.info/)
 
         # - title: PhD in computer science
           # company: The University of Adelaide
