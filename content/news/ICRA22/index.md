@@ -1,6 +1,6 @@
 ---
 
-title: SimCS accepted to CVPR 2023 Workshop on Continual Learning in Computer Vision
+title: Co-organizing the ICRA 2022 Gereral Place Recognition Competition
 subtitle: 
 
 # Summary for listings and search engines
@@ -10,10 +10,10 @@ summary:
 projects: []
 
 # Date published
-date: '2023-06-15T00:00:00Z'
+date: '2022-05-15T00:00:00Z'
 
 # Date updated
-lastmod: '2023-06-15T00:00:00Z'
+lastmod: '2022-05-15T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -39,8 +39,7 @@ categories:
 
 ---
 
-[Paper](https://arxiv.org/pdf/2211.16234.pdf)
-
+[Competition Webpage](https://sites.google.com/andrew.cmu.edu/gpr-competition/)
 <!-- ```python
 import libr
 print('hello')
