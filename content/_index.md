@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: Zhipeng's Homepage
+date: 2023-09-01
 type: landing
 
 sections:
@@ -131,9 +131,9 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-    id: featured
+    id: publications
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publication
