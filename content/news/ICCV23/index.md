@@ -30,7 +30,7 @@ image:
   preview_only: false
 
 authors:
-  - admin
+  # - admin
 
 tags:
 
