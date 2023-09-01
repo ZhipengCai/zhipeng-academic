@@ -1,6 +1,6 @@
 ---
 
-title: SimCS accepted to CVPR 2023 Workshop on Continual Learning in Computer Vision
+title: 'June-2023: SimCS accepted to CVPR 2023 Workshop on Continual Learning in Computer Vision'
 subtitle: 
 
 # Summary for listings and search engines
