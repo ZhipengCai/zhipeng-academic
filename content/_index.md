@@ -131,9 +131,9 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-    id: publications
+    id: featured
     content:
-      title: featured
+      title: Publication
       filters:
         folders:
           - publication
