@@ -1,6 +1,6 @@
 ---
 
-title: 'Aug-2023: Paper accepted to IEEE Transactions on Geoscience and Remote Sensing (TGRS)'
+title: 'July-2021: Paper accepted to ICCV 2021'
 subtitle: 
 
 # Summary for listings and search engines
@@ -10,10 +10,10 @@ summary:
 projects: []
 
 # Date published
-date: '2023-08-15T00:00:00Z'
+date: '2021-07-15T00:00:00Z'
 
 # Date updated
-lastmod: '2023-08-15T00:00:00Z'
+lastmod: '2021-07-15T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -38,6 +38,8 @@ tags:
 categories:
 
 ---
+
+[Paper](https://arxiv.org/pdf/2108.09020.pdf)
 
 <!-- ```python
 import libr

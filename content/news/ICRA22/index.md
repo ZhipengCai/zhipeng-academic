@@ -1,6 +1,6 @@
 ---
 
-title: Co-organizing the ICRA 2022 Gereral Place Recognition Competition
+title: 'May-2022: Co-organizing the ICRA 2022 Gereral Place Recognition Competition'
 subtitle: 
 
 # Summary for listings and search engines

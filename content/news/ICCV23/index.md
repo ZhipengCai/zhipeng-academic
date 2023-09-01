@@ -1,6 +1,6 @@
 ---
 
-title: Two papers accepted to ICCV 2023
+title: 'July-2023: Two papers accepted to ICCV 2023'
 subtitle: 
 
 # Summary for listings and search engines
@@ -10,10 +10,10 @@ summary:
 projects: []
 
 # Date published
-date: '2023-08-15T00:00:00Z'
+date: '2023-07-15T00:00:00Z'
 
 # Date updated
-lastmod: '2023-08-15T00:00:00Z'
+lastmod: '2023-07-15T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
