@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhipeng Cai 蔡志鹏
+# title: Zhipeng Cai 蔡志鹏
 
 # Full name (for SEO)
 first_name: Zhipeng
