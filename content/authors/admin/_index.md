@@ -24,24 +24,24 @@ role: Research Scientist at [Intel Labs](https://www.intel.com/content/www/us/en
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
-interests:
-  - Robust geometric perception
-  - Continual learning
-  - Generative models
+# # Interests to show in About widget
+# interests:
+#   - Robust geometric perception
+#   - Continual learning
+#   - Generative models
 
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Computer Science
-      institution: The University of Adelaide
-      year: 2020
-    - course: MEng in Computer Science
-      institution: Xiamen University
-      year: 2016
-    - course: BSc in Computer Science
-      institution: Xiamen University
-      year: 2009
+# # Education to show in About widget
+# education:
+#   courses:
+#     - course: PhD in Computer Science
+#       institution: The University of Adelaide
+#       year: 2020
+#     - course: MEng in Computer Science
+#       institution: Xiamen University
+#       year: 2016
+#     - course: BSc in Computer Science
+#       institution: Xiamen University
+#       year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
