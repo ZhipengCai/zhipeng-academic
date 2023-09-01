@@ -133,7 +133,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
+      title: featured
       filters:
         folders:
           - publication
