@@ -195,7 +195,7 @@ sections:
           company: Intel Intelligent Systems Lab
           company_url: ''
           # company_logo: org-x
-          location: California
+          location: Santa Clara, California
           date_start: '2020-06-01'
           date_end: '2022-05-31'
           #description: Doing research on general computer vision and machine learning problems. Working with Vladlen koltun.
@@ -205,7 +205,7 @@ sections:
           company: Intel Intelligent Systems Lab
           company_url: ''
           # company_logo: org-x
-          location: California
+          location: Santa Clara, California
           date_start: '2019-01-26'
           date_end: '2019-07-31'
           # description: Doing research on general computer vision and machine learning problems. Working with Vladlen koltun

@@ -24,7 +24,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://github.com/ZhipengCai/ZhipengCai.github.io/blob/master/papers/TGRS23.png)'
+  caption: 
   focal_point: ''
   placement: 2
   preview_only: false

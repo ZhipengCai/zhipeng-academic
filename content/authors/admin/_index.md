@@ -22,7 +22,7 @@ role: Research Scientist at [Intel Labs](https://www.intel.com/content/www/us/en
 #    url: https://www.intel.com/content/www/us/en/research/overview.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # # Interests to show in About widget
 # interests:
